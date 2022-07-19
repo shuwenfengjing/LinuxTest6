@@ -22,7 +22,7 @@ public class Text extends HttpServlet {
 
           Student stu = getStudent();
 
-
+//哈哈哈哈哈
           out.println("<h1>hello world, " + stu.name + "</h1>");
     }
     
