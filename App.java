@@ -9,7 +9,7 @@ public class App {
     static final String DB_URL = "jdbc:mysql://[ip]/[database]";
     static final String USER = "xxxx";
     static final String PASS = "xxxxxx";
-
+//阿巴阿巴
     public static void main(String[] args) {
         Connection conn = null;
         Statement stmt = null;
